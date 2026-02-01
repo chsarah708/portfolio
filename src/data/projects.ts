@@ -29,10 +29,10 @@ export const projects: Project[] = [
     gradient: 'from-plasma via-volt to-neural',
     icon: 'brain',
     images: [
-      '/projects/chatbot/chatbot-1.png',
-      '/projects/chatbot/chatbot-2.png',
-      '/projects/chatbot/chatbot-code-1.png',
-      '/projects/chatbot/chatbot-code-2.png'
+      'projects/chatbot/chatbot-1.png',
+      'projects/chatbot/chatbot-2.png',
+      'projects/chatbot/chatbot-code-1.png',
+      'projects/chatbot/chatbot-code-2.png'
     ]
   },
   {
@@ -52,10 +52,10 @@ export const projects: Project[] = [
     gradient: 'from-synapse via-neural to-quantum',
     icon: 'newspaper',
     images: [
-      '/projects/bert/bert-1.png',
-      '/projects/bert/bert-code.png',
-      '/projects/bert/bert-training-1.png',
-      '/projects/bert/bert-training-2.png'
+      'projects/bert/bert-1.png',
+      'projects/bert/bert-code.png',
+      'projects/bert/bert-training-1.png',
+      'projects/bert/bert-training-2.png'
     ]
   },
   {
@@ -75,10 +75,10 @@ export const projects: Project[] = [
     gradient: 'from-apex via-ember to-volt',
     icon: 'home',
     images: [
-      '/projects/house-price/house-result.png',
-      '/projects/house-price/house-graph.png',
-      '/projects/house-price/house-code-1.png',
-      '/projects/house-price/house-code-2.png'
+      'projects/house-price/house-result.png',
+      'projects/house-price/house-graph.png',
+      'projects/house-price/house-code-1.png',
+      'projects/house-price/house-code-2.png'
     ]
   },
   {
@@ -98,10 +98,10 @@ export const projects: Project[] = [
     gradient: 'from-volt via-plasma to-flux',
     icon: 'users',
     images: [
-      '/projects/churn/churn-output.png',
-      '/projects/churn/churn-code-1.png',
-      '/projects/churn/churn-code-2.png',
-      '/projects/churn/churn-code-3.png'
+      'projects/churn/churn-output.png',
+      'projects/churn/churn-code-1.png',
+      'projects/churn/churn-code-2.png',
+      'projects/churn/churn-code-3.png'
     ]
   },
   {
@@ -121,10 +121,10 @@ export const projects: Project[] = [
     gradient: 'from-neural via-quantum to-flux',
     icon: 'tag',
     images: [
-      '/projects/ticket/ticket-code-1.png',
-      '/projects/ticket/ticket-code-2.png',
-      '/projects/ticket/ticket-code-3.png',
-      '/projects/ticket/ticket-code-4.png'
+      'projects/ticket/ticket-code-1.png',
+      'projects/ticket/ticket-code-2.png',
+      'projects/ticket/ticket-code-3.png',
+      'projects/ticket/ticket-code-4.png'
     ]
   }
 ];
